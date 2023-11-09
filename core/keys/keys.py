@@ -194,14 +194,8 @@ symbol_key_words = {
     "paren": "(",
     "brace": "{",
     "left brace": "{",
-    "brack": "{",
-    "bracket": "{",
-    "left bracket": "{",
     "r brace": "}",
     "right brace": "}",
-    "r brack": "}",
-    "r bracket": "}",
-    "right bracket": "}",
     "angle": "<",
     "left angle": "<",
     "less than": "<",
@@ -247,9 +241,7 @@ simple_keys = [
 ]
 
 alternate_keys = {
-    "wipe": "backspace",
     "delete": "backspace",
-    #'junk': 'backspace',
     "forward delete": "delete",
     "page up": "pageup",
     "page down": "pagedown",
